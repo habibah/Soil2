@@ -111,8 +111,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PageFragment.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/PageFragment.java">
+      <file leaf-file-name="com.example.nurhabibah.soil2.PageFragment.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com.example.nurhabibah.soil2.PageFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="1.1370968" vertical-offset="70" max-vertical-offset="748">
               <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
@@ -913,7 +913,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_color_2.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/brown.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_page.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/PageFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com.example.nurhabibah.soil2.PageFragment.java" />
       </list>
     </option>
   </component>
@@ -1337,7 +1337,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/PageFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com.example.nurhabibah.soil2.PageFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="94" max-vertical-offset="765">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
@@ -1430,7 +1430,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/PageFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com.example.nurhabibah.soil2.PageFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="765">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
@@ -1684,7 +1684,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/PageFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com.example.nurhabibah.soil2.PageFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1370968" vertical-offset="70" max-vertical-offset="748">
           <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
